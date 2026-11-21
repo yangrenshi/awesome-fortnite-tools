@@ -28,6 +28,7 @@ Focus: free or freemium web tools that help players during matches or season eve
 
 - [FNBR.co](https://fnbr.co/) - Item shop tracker and cosmetic catalog.
 - [FortniteAPI.io](https://fortniteapi.io/) - Shop, stats, and cosmetics API with docs.
+- [SkinRotation](https://skinrotation.com/) - Daily item shop and cosmetics tracker in English, German, and Spanish.
 
 ## Maps & Drop Routes
 
